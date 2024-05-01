@@ -1,0 +1,15 @@
+{
+    "Torrents": [
+        {
+            "Name": "The Show (1927)",
+            ".Torrent": "https://archive.org/download/rec-20231113112436_202311/rec-20231113112436_202311_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:YVK4653ZLKOXXQTSSWUPLD2ATMWLEIKJ&dn=rec-20231113112436_202311&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://gitlab.com/HttpAnimations/hundros/-/raw/Public-Repos/The_Show_(1927_film).jpg?ref_type=heads",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": "Tod Browning",
+            "HasStreamURL": true,
+            "StreamURL": "https://archive.org/download/rec-20231113112436_202311/The%20Show%20%281927%29..ia.mp4",
+            "Source": "https://archive.org/details/rec-20231113112436_202311"
+        }
+    ]
+}
