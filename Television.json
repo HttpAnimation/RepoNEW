@@ -1,0 +1,15 @@
+{
+    "Torrents": [
+        {
+            "Name": "Burke's Law Who Killed Jason Shaw S1E15",
+            ".Torrent": "https://archive.org/download/BurkesLaw/BurkesLaw_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:6BTH3YJJWRFQIA2I4473HJKVVV2ZTIJK&dn=BurkesLaw&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/MV5BOTE3NWFmMDMtMGNhYy00MTlhLTgzMDQtYjhiM2FmZTM2NjEwXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_FMjpg_UX1000_.jpg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": "Stanley Z Cherry",
+            "HasStreamURL": true,
+            "StreamURL": "https://archive.org/download/BurkesLaw/BurkesLawWhoKilledJasonShaw.mp4",
+            "Source": "https://archive.org/details/BurkesLaw"
+        }
+    ]
+}

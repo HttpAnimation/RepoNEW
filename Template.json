@@ -1,0 +1,15 @@
+{
+    "Torrents": [
+        {
+            "Name": "NAMEOFTORRENT",
+            ".Torrent": "DOWNLOADFORTORRENT",
+            "MagnetUrl": "MagnetURL",
+            "Icon": "URL",
+            "SeedersAtTheTime": "9",
+            "Publisher": "WHOMADETHETORRENTFILE",
+            "HasStreamURL": false,
+            "StreamURL": "IFYOUCANSTREAMTHESHOWTHENADDTHEURLHERE",
+            "Source": "WHERETHETORRENTCAMEOVER"
+        }
+    ]
+}
