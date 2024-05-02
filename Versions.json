@@ -1,6 +1,17 @@
 {
     "Torrents": [
         {
+            "Name": "NAMEOFTORRENT",
+            ".Torrent": "DOWNLOADFORTORRENT",
+            "MagnetUrl": "MagnetURL",
+            "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/REPLACEME?raw=true",
+            "SeedersAtTheTime": "9",
+            "Publisher": "WHOMADETHETORRENTFILE",
+            "HasStreamURL": false,
+            "StreamURL": "IFYOUCANSTREAMTHESHOWTHENADDTHEURLHERE",
+            "Source": "WHERETHETORRENTCAMEOVER"
+        },
+        {
             "Name": "1.0.0",
             ".Torrent": "https://github.com/HttpAnimation/RepoNEW/releases/download/1/hundros_1.0.0_amd64.deb",
             "RPM": "https://github.com/HttpAnimation/RepoNEW/releases/download/1/hundros-1.0.0-1.x86_64.rpm",
