@@ -2,17 +2,10 @@
     "Torrents": [
         {
             "Name": "Version 1.0.0",
-            "MagnetUrl": "magnet:?xt=urn:btih:examplehash&dn=example",
-            ".Torrent": "http://example.com/torrents/version100-linux.deb.torrent",
-            "RPM": "http://example.com/torrents/version100-linux.rpm",
-            "NTDownload": "http://example.com/torrents/version100-windows.nt"
-        },
-        {
-            "Name": "Version 0.9.9",
-            "MagnetUrl": "magnet:?xt=urn:btih:examplehashold&dn=exampleold",
-            ".Torrent": "http://example.com/torrents/version099-linux.deb.torrent",
-            "RPM": "http://example.com/torrents/version099-linux.rpm",
-            "NTDownload": "http://example.com/torrents/version099-windows.nt"
+            "MagnetUrl": "macos",
+            ".Torrent": "deb",
+            "RPM": "rpm",
+            "NTDownload": "nt"
         }
     ]
 }
