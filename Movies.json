@@ -1,10 +1,32 @@
 {
     "Torrents": [
         {
+            "Name": "Danger Lights (1930)",
+            ".Torrent": "https://archive.org/download/danger_lights/danger_lights_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:63VB5OZKV2PTYYLBV33D77URDV2RENYC&dn=danger_lights&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/Danger-Lights.jpg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": "George B. Seitz",
+            "HasStreamURL": true,
+            "StreamURL": "https://archive.org/download/danger_lights/danger_lights.mp4",
+            "Source": "https://archive.org/details/danger_lights"
+        },
+        {
+            "Name": "Boy! What a Girl! (1946)",
+            ".Torrent": "https://archive.org/download/boy_what_a_girl_ipod/boy_what_a_girl_ipod_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:W2O63VOZY522KSKYP5M5YM62FAQ3UCTD&dn=boy_what_a_girl_ipod&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/BoyWhatAGirl.jpg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": "Arthur H. Leonard",
+            "HasStreamURL": true,
+            "StreamURL": "https://archive.org/download/boy_what_a_girl_ipod/boy_what_a_girl.mp4",
+            "Source": "https://archive.org/details/boy_what_a_girl_ipod"
+        },
+        {
             "Name": "The Show (1927)",
             ".Torrent": "https://archive.org/download/rec-20231113112436_202311/rec-20231113112436_202311_archive.torrent",
             "MagnetUrl": "magnet:?xt=urn:btih:YVK4653ZLKOXXQTSSWUPLD2ATMWLEIKJ&dn=rec-20231113112436_202311&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
-            "Icon": "https://gitlab.com/HttpAnimations/hundros/-/raw/Public-Repos/The_Show_(1927_film).jpg?ref_type=heads",
+            "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/The_Show_(1927_film).jpg?raw=true",
             "SeedersAtTheTime": "Archive",
             "Publisher": "Tod Browning",
             "HasStreamURL": true,

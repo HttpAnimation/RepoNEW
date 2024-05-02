@@ -4,7 +4,7 @@
             "Name": "NAMEOFTORRENT",
             ".Torrent": "DOWNLOADFORTORRENT",
             "MagnetUrl": "MagnetURL",
-            "Icon": "URL",
+            "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/REPLACEME?raw=true",
             "SeedersAtTheTime": "9",
             "Publisher": "WHOMADETHETORRENTFILE",
             "HasStreamURL": false,
