@@ -1,7 +1,7 @@
 {
-    "Name": "VERSION",
+    "Name": "Version ",
     ".Torrent": "LinuxDownloadDEB",
     "RPM": "RPMDownload",
     "MagnetUrl": "macOSDownload",
-    "NTDownload": "NTDownload",
+    "NTDownload": "NTDownload"
 },
