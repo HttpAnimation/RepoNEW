@@ -2,6 +2,7 @@
     "Name": "Version ",
     ".Torrent": "LinuxDownloadDEB",
     "RPM": "RPMDownload",
+    "GenericLinux": "",
     "MagnetUrl": "macOSDownload",
     "NTDownload": "NTDownload"
 },

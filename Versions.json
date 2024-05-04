@@ -1,9 +1,18 @@
 {
     "Torrents": [
         {
+            "Name": "Version 1.0.2",
+            ".Torrent": "https://github.com/HttpAnimation/RepoNEW/releases/download/3/hundros_1.0.2_amd64.deb",
+            "RPM": "https://github.com/HttpAnimation/RepoNEW/releases/download/3/hundros-1.0.2-1.x86_64.rpm",
+            "GenericLinux": "URLHERE",
+            "MagnetUrl": "https://github.com/HttpAnimation/RepoNEW/releases/download/3/hundros-darwin-x64-1.0.2.zip",
+            "NTDownload": "https://github.com/HttpAnimation/RepoNEW/releases/download/3/hundros-1.0.2.Setup.exe"
+        },
+        {
             "Name": "Version 1.0.1",
             ".Torrent": "https://github.com/HttpAnimation/RepoNEW/releases/download/2/hundros_1.0.1_amd64.deb",
             "RPM": "https://github.com/HttpAnimation/RepoNEW/releases/download/2/hundros-1.0.1-1.x86_64.rpm",
+            "GenericLinux": "",
             "MagnetUrl": "https://github.com/HttpAnimation/RepoNEW/releases/download/2/hundros-darwin-x64-1.0.1.zip",
             "NTDownload": "https://github.com/HttpAnimation/RepoNEW/releases/download/2/hundros-1.0.1.Setup.exe"
         },
@@ -11,6 +20,7 @@
             "Name": "Version 1.0.0",
             "MagnetUrl": "https://github.com/HttpAnimation/RepoNEW/releases/download/1/hundros-darwin-x64-1.0.0.zip",
             ".Torrent": "https://github.com/HttpAnimation/RepoNEW/releases/download/1/hundros_1.0.0_amd64.deb",
+            "GenericLinux": "",
             "RPM": "https://github.com/HttpAnimation/RepoNEW/releases/download/1/hundros-1.0.0-1.x86_64.rpm",
             "NTDownload": "https://github.com/HttpAnimation/RepoNEW/releases/download/1/hundros-1.0.0.Setup.exe"
         }
