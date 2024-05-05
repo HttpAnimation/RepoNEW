@@ -1,6 +1,30 @@
 {
     "Torrents": [
         {
+            "Name": "Africa Screams 1949",
+            ".Torrent": "https://archive.org/download/AfricaScreams/AfricaScreams_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:FOXKO7ZAR7CBHHPSVS6ROJADCLZ4BJTG&dn=AfricaScreams&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/cxvbxcbcxcxvb.jpg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": " Charles Barton",
+            "HasStreamURL": true,
+            "StreamURL": "https://archive.org/download/AfricaScreams/Africa_Screams.mp4",
+            "Source": "https://archive.org/details/AfricaScreams"
+        
+        },
+        {
+            "Name": "Abraham Lincoln (1930) restored version",
+            ".Torrent": "https://archive.org/download/AbrahamLincoln1930FullMovie/AbrahamLincoln1930FullMovie_archive.torrent",
+            "MagnetUrl": "magnet:?xt=urn:btih:PAH7EK32BTAKAY2MSW4SSLA6D6Z65RXQ&dn=AbrahamLincoln1930FullMovie&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+            "Icon": "https://github.com/HttpAnimation/RepoNEW/blob/main/jhfgjkhfdgjkhdfgjdfhjkgdfhdkjfgh.jpg?raw=true",
+            "SeedersAtTheTime": "Archive",
+            "Publisher": "D.W. Griffith",
+            "HasStreamURL": true,
+            "StreamURL": "https://archive.org/download/AbrahamLincoln1930FullMovie/Abraham%20Lincoln%20%281930%29%20-%20Full%20Movie.mp4",
+            "Source": "https://archive.org/details/AbrahamLincoln1930FullMovie"
+        
+        },
+        {
             "Name": "Danger Lights (1930)",
             ".Torrent": "https://archive.org/download/danger_lights/danger_lights_archive.torrent",
             "MagnetUrl": "magnet:?xt=urn:btih:63VB5OZKV2PTYYLBV33D77URDV2RENYC&dn=danger_lights&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
