@@ -1,0 +1,67 @@
+{
+    "Repos": {
+      "categories": [
+        {
+          "name": "Movies",
+          "repos": [
+            {
+              "name": "Hundros",
+              "url": "https://raw.githubusercontent.com/HttpAnimation/RepoNEW/main/Movies.json",
+              "source": ""
+            },
+            {
+              "name": "prreop/repo",
+              "url": "https://raw.githubusercontent.com/prreop/repo/main/Movies.json",
+              "source": ""
+            }
+          ]
+        },
+        {
+          "name": "Television",
+          "repos": [
+            {
+              "name": "Hundros",
+              "url": "https://raw.githubusercontent.com/HttpAnimation/RepoNEW/main/Television.json",
+              "source": ""
+            },
+            {
+              "name": "prreop/repo",
+              "url": "https://raw.githubusercontent.com/prreop/repo/main/TV.json",
+              "source": ""
+            }
+          ]
+        },
+        {
+          "name": "Windows Games",
+          "repos": [
+            {
+              "name": "prreop/repo",
+              "url": "https://raw.githubusercontent.com/prreop/repo/main/Windows-Games.json",
+              "source": ""
+            }
+          ]
+        },
+        {
+            "name": "3DS",
+            "repos": [
+              {
+                "name": "prreop/repo",
+                "url": "https://raw.githubusercontent.com/prreop/repo/main/3ds.json",
+                "source": ""
+              }
+            ]
+        },
+        {
+          "name": "Nintedo 64",
+          "repos": [
+            {
+              "name": "prreop/repo",
+              "url": "https://raw.githubusercontent.com/prreop/repo/main/N64.json",
+              "source": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
