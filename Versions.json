@@ -1,6 +1,14 @@
 {
     "Torrents": [
         {
+            "Name": "Version 1.0.7",
+            ".Torrent": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.7/hundros_1.0.7_amd64.deb",
+            "RPM": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.7/hundros-1.0.7-1.x86_64.rpm",
+            "GenericLinux": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.7/hundros-linux-x64-1.0.7.zip",
+            "MagnetUrl": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.7/hundros-darwin-x64-1.0.7.zip",
+            "NTDownload": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.7/hundros-1.0.7.Setup.exe"
+        },
+        {
             "Name": "Version 1.0.6",
             ".Torrent": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.6/hundros_1.0.6_amd64.deb",
             "RPM": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.6/hundros-1.0.6-1.x86_64.rpm",
