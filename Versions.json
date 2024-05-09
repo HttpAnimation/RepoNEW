@@ -2,7 +2,7 @@
     "Torrents": 
     [
         {
-            "Name": "Version 1.0.9",
+            "Name": "Version 1.0.8",
             ".Torrent": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.8/hundros_1.0.8_amd64.deb",
             "RPM": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.8/hundros-1.0.8-1.x86_64.rpm",
             "GenericLinux": "https://github.com/HttpAnimation/RepoNEW/releases/download/1.0.8/hundros-linux-x64-1.0.8.zip",
